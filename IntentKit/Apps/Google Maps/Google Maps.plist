@@ -14,7 +14,7 @@
 	<key>actions</key>
 	<dict>
 		<key>directionsFrom:to:mode:</key>
-		<string>comgooglemaps://?saddr=&amp;daddr={{to}}&amp;directionsmode={{mode}}</string>
+		<string>http://maps.google.com/maps?daddr={{to}}</string>
 		<key>searchForLocation:</key>
 		<string>comgooglemaps://?q={{query}}</string>
 	</dict>
